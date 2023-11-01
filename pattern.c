@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main(){
     int i,j,n;
     printf("Enter the rows you want to make:\n");
@@ -9,8 +9,8 @@ int main(){
         }
         printf("\n");
     }return 0;
-}*/
-#include<stdio.h>
+}
+/*#include<stdio.h>
 int main(){
     int i,j,n,k;
     printf("Enter the number of rows you want:\n");
@@ -30,4 +30,4 @@ int main(){
 return 0;
 
 }
-
+*/
